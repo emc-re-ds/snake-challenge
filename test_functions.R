@@ -1,6 +1,6 @@
 generateSnake = function(board, snake_size)
 {
-  # move snake across the board
+  # generates an initial snake on the board
   #
   # :param board: Non-negative integer 2-array. First element corresponding to number of rows, second 
   # element to number of columns
